@@ -1,6 +1,6 @@
 .toolbar {
 
-        background: #191c21;
+        background: #f900a1;
     color: #d4d4d4
 }
 
@@ -34,7 +34,7 @@ body {
 }
 
 .box {
-    background-color: #191c21de!important;
+    background-color: #f900a1de!important;
 }
 
 
@@ -52,7 +52,7 @@ body {
 
 
 .input-group-addon {
-    background-color: #191c21;
+    background-color: #f900a1;
     border-color: #0e1012;
 }
 
@@ -83,7 +83,7 @@ tr.row-clickable:hover {
 
 .box-gray-arrow {
   
-    background: #191c21;
+    background: #f900a1;
 
 }
 
@@ -92,7 +92,7 @@ tr.row-clickable:hover {
 
 .modal-content {
    
-    background-color: #191c21;
+    background-color: #f900a1;
 
 }
 
@@ -124,8 +124,8 @@ border-color: #0e1012;
 
 
 .content-body .tabsContainer .tabsContent {
-    background-color: #191c21de;
-    border-color: #191c21;
+    background-color: #f900a1de;
+    border-color: #f900a1;
 }
 
 
@@ -146,7 +146,7 @@ border-color: #0e1012;
 }
 
 .content-body .tabsContainer .tabsContent .tab-streamer {
-    background-color: #191c21!important;
+    background-color: #f900a1!important;
    border-color: #2f3134;
 }
 
@@ -154,12 +154,12 @@ border-color: #0e1012;
 
 .productAdminTable>tbody>tr.productControl>td {
   
-    background-color: #191c21!important;
-    box-shadow: inset 0 11px 8px -10px #191c21, inset 0 -11px 8px -10px #191c21;
+    background-color: #f900a1!important;
+    box-shadow: inset 0 11px 8px -10px #f900a1, inset 0 -11px 8px -10px #f900a1;
 }
 
 .productAdminTable table {
-    background-color: #191c21!important;
+    background-color: #f900a1!important;
 }
 
 .list-group-item {
@@ -180,8 +180,8 @@ border-color: #0e1012;
 .sidebar {
 
     color: #4a4a4a;
-    border-color: #191c21;
-    background-color: #191c21;
+    border-color: #f900a1;
+    background-color: #f900a1;
 }
 
 .table-hover>tbody>tr:hover {
@@ -288,7 +288,7 @@ a.list-group-item:hover, button.list-group-item:hover, a.list-group-item:focus, 
 
     border-color: #252931;
 
-    background: #191c21;
+    background: #f900a1;
 }
 
 .billingsTable>tbody>tr:nth-last-child(2)>td {
@@ -307,8 +307,8 @@ a.list-group-item:hover, button.list-group-item:hover, a.list-group-item:focus, 
 
 
 .well {
-    background-color: #191c21;
-    border-color: #191c21;
+    background-color: #f900a1;
+    border-color: #f900a1;
 }
 
 
@@ -437,7 +437,7 @@ a.list-group-item:hover, button.list-group-item:hover, a.list-group-item:focus, 
 
     border-color: #252931;
 
-    background: #191c21;
+    background: #f900a1;
 }
 
 .billingsTable>tbody>tr:nth-last-child(2)>td {
@@ -456,8 +456,8 @@ a.list-group-item:hover, button.list-group-item:hover, a.list-group-item:focus, 
 
 
 .well {
-    background-color: #191c21;
-    border-color: #191c21;
+    background-color: #f900a1;
+    border-color: #f900a1;
 }
 
 
